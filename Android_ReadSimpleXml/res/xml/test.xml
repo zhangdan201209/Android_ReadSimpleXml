@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource>
+    <customer name="tom" age="20" gender="male" email="tome@gmail.com"/>
+    <customer name="lily" age="24" gender="female" email="lily@gmail.com"/>
+    
+</resource>
